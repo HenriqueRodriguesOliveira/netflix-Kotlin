@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetFlix</string>
+    <string name="menu_mensagem" />
+    <string name="Menu_volume" />
+    <string name="Menu_Favorito" />
+    <string name="Menu_descrição" />
+</resources>
